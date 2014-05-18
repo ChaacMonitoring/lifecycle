@@ -1,0 +1,6 @@
+-tags zmq_3_x github.com/alecthomas/gozmq
+github.com/abhishekkr/goshare/zeromq
+github.com/abhishekkr/gol/golzmq
+github.com/abhishekkr/gol/gollog
+github.com/ChaacMonitoring/lifecycle/helpers
+github.com/abhishekkr/gol/golhashmap
